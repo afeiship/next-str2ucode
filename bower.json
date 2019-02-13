@@ -1,0 +1,28 @@
+{
+  "name": "next-str2ucode",
+  "version": "0.0.1",
+  "description": "Wrap &#39;\u200b&#39; for string",
+  "main": "dist/next-str2ucode.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-str2ucode",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
