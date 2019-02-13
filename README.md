@@ -18,9 +18,6 @@ npm install -S afeiship/next-str2ucode --registry=https://registry.npm.taobao.or
 ## reference:
 
 <table cellspacing="0" cellpadding="3">
-    <caption>
-        Space characters and “zero-width spaces” in Unicode
-    </caption>
     <thead>
         <tr>
             <th scope="col">Code</th>
