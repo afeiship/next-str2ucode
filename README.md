@@ -9,6 +9,8 @@ npm install -S afeiship/next-str2ucode --registry=https://registry.npm.taobao.or
 ## usage:
 ```js
 //DOCS here!
+nx.str2ucode('A')
+// "‍A‍"
 ```
 
 ## resouces:
