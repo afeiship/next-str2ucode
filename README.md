@@ -12,6 +12,7 @@ npm install -S afeiship/next-str2ucode --registry=https://registry.npm.taobao.or
 nx.str2ucode('A')
 // "‍A‍"
 ```
+<img width="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g04odt4si5j30bo03qjrf.jpg"/>
 
 ## resouces:
 - http://jkorpela.fi/chars/spaces.html
