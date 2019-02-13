@@ -11,13 +11,13 @@ npm install -S afeiship/next-str2ucode --registry=https://registry.npm.taobao.or
 //DOCS here!
 ```
 
+## resouces:
+- http://jkorpela.fi/chars/spaces.html
+
 
 ## reference:
 
-<table summary="First column: Unicode code number. Second column:
-name of the character. Third column: sample text &quot;foo bar&quot;
-with the space character in question between the words.
-Fourth column: description of the width of the character." border="1" cellspacing="0" cellpadding="3">
+<table cellspacing="0" cellpadding="3">
     <caption>
         Space characters and “zero-width spaces” in Unicode
     </caption>
